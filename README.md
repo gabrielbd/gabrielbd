@@ -6,10 +6,6 @@
 ### Sobre mim:
 -   🤵🏼  Me chamo  **Gabriel Bronisio Damascena** nascido em **17/09/1999**.
 -   🌍 De São Gonçalo, Rio de Janeiro, Brasil.
-- 👩🏻‍💻 Atualmente estou cursando **análise e desenvolvimento de sistema.**
--  💪🏻 Estudando com foco em me aprimorar na área de  **back-end**.
-
-- 🌱 Atualmente estou aprendendo | Asp.Net | C# | Angula |
 
 - 💬 Pergunte-me sobre qualquer coisa, estou disposto a ajudar.
 
