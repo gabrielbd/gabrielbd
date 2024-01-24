@@ -4,21 +4,36 @@
 
 
 ### Sobre mim:
--   🤵🏼  Me chamo  **Gabriel Bronisio Damascena** nascido em **17/09/1999**.
--   🌍 De São Gonçalo, Rio de Janeiro, Brasil.
+Gabriel Bronisio,
 
+👋 Bem-vindo ao meu GITHUB! Aqui está um pouco sobre mim e minhas habilidades técnicas:
+
+🎓 Sou graduado em Análise e Desenvolvimento de Sistemas, com uma sólida formação acadêmica e experiência profissional focada no desenvolvimento de soluções. 
+Minha principal tecnologia é o ASP.NET / ASP.NET CORE, e meu foco está na entrega de soluções personalizadas de ponta, utilizando a plataforma .NET.
 - 💬 Pergunte-me sobre qualquer coisa, estou disposto a ajudar.
 
-### Habilidades 👨🏻‍💻
+### Habilidades Técnicas 👨🏻‍💻
 
-
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png" alt="Aspnet"/></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="Csharp"/></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
-<code><img height="40"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular"/></code>
+✔️ ASP.NET Core
+✔️ ASP.NET
+✔️ C#
+✔️ API REST / MVC
+✔️ JavaScript (Vanilla / jQuery / Angular / React)
+✔️ Git
+✔️ Azure DevOps
+✔️ Dapper / EntityFramework
+✔️ SOLID (Boas práticas)
+✔️ SQL Server / MySQL / Oracle
+✔️ DDD - Domain Driven Design
+✔️ HTML / CSS / Bootstrap
+✔️ React JS e Angular 8+
+✔️ Microserviços
+✔️ MongoDB
+✔️ RabbitMQ (Mensageria)
+✔️CI/CD
+✔️ Containerização / Docker
+✔️ TDD - Test Driven Development (XUnit e NUnit)
+🔥 Sou altamente adaptável a novos ambientes e apaixonado por tecnologia e pela resolução de desafios. Tenho experiência em ambientes complexos e utilizo metodologias ágeis, como o Scrum, para entregar resultados excepcionais.
 
 ###   Entre em contato !
 
